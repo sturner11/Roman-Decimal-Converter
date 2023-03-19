@@ -1,7 +1,7 @@
 # Roman-Decimal-Converter
 Notes for Numeral to Number: See attached jpeg file
 
-Notes for Number to Numeral: I went through several ideas, but nothing was working out fantastically, so I looked up how to turn a roman numeral into a decimal number (not code, but just in general) this website contains an explanation of how I do it. (If the goal was for us to come up with our own algorith please let me know and I will use the remaining time to come up with something different).
+Notes for Number to Numeral: I went through several ideas, but nothing was working out fantastically, so I looked up how to turn a roman numeral into a decimal number (not code, but just in general) this website contains an explanation of how I do it: https://www.rapidtables.com/convert/number/how-number-to-roman-numerals.html. (If the goal was for us to come up with our own algorith please let me know and I will use the remaining time to come up with something different).
 
 Time: 2:56:18
 
